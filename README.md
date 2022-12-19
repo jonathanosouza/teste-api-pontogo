@@ -26,3 +26,9 @@ API RESTFUL
 
 
 npm rum dev (PARA STARTAR O PROJETO)
+
+
+
+
+https://user-images.githubusercontent.com/36960606/208522752-d0624d2e-3650-4888-aa11-202e353ec887.mp4
+
